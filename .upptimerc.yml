@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Protagonist
     url: https://protagonist.co.uk
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Webmail
+    url: https://webmail.protagonist.co.uk
+  - name: Tubul
+    url: https://tubul.org
 
 status-website:
   cname: status.protagonist.co.uk
@@ -20,3 +22,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: Protagonist
