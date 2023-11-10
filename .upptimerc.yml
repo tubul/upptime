@@ -16,10 +16,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Monitoring the status of Protagonist"
-  introMessage: A quick overview of the status of Protagonist
+  introMessage: This site will provide information on current and future Protagonist services status
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 i18n:
