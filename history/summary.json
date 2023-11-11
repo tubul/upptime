@@ -4,36 +4,40 @@
     "url": "https://protagonist.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/protagonist.co.uk.ico",
     "slug": "protagonist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 615,
+    "timeDay": 692,
     "timeWeek": 534,
     "timeMonth": 534,
     "timeYear": 534,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 0
+    }
   },
   {
     "name": "Webmail",
     "url": "https://webmail.protagonist.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.protagonist.co.uk.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
-    "timeDay": 676,
+    "timeDay": 797,
     "timeWeek": 555,
     "timeMonth": 555,
     "timeYear": 555,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 0
+    }
   },
   {
     "name": "Tubul",
@@ -47,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 347,
-    "timeDay": 328,
+    "timeDay": 321,
     "timeWeek": 347,
     "timeMonth": 347,
     "timeYear": 347,
