@@ -4,19 +4,19 @@
     "url": "https://protagonist.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/protagonist.co.uk.ico",
     "slug": "protagonist",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 692,
-    "timeWeek": 534,
-    "timeMonth": 534,
-    "timeYear": 534,
+    "status": "up",
+    "uptime": "95.21%",
+    "uptimeDay": "84.82%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "95.21%",
+    "time": 528,
+    "timeDay": 584,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {
-      "2023-11-11": 0
+      "2023-11-11": 219
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://webmail.protagonist.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.protagonist.co.uk.ico",
     "slug": "webmail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 797,
-    "timeWeek": 555,
-    "timeMonth": 555,
-    "timeYear": 555,
+    "status": "up",
+    "uptime": "95.02%",
+    "uptimeDay": "84.82%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "95.02%",
+    "uptimeYear": "95.02%",
+    "time": 544,
+    "timeDay": 632,
+    "timeWeek": 544,
+    "timeMonth": 544,
+    "timeYear": 544,
     "dailyMinutesDown": {
-      "2023-11-11": 0
+      "2023-11-11": 219
     }
   },
   {
