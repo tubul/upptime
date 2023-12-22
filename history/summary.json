@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.63%",
-    "time": 512,
-    "timeDay": 401,
-    "timeWeek": 554,
-    "timeMonth": 508,
-    "timeYear": 512,
+    "time": 509,
+    "timeDay": 341,
+    "timeWeek": 534,
+    "timeMonth": 503,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2023-12-12": 16,
       "2023-11-11": 219
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.63%",
-    "time": 506,
-    "timeDay": 480,
-    "timeWeek": 582,
-    "timeMonth": 505,
-    "timeYear": 506,
+    "time": 504,
+    "timeDay": 421,
+    "timeWeek": 572,
+    "timeMonth": 501,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2023-12-12": 16,
       "2023-11-11": 219
@@ -46,17 +46,19 @@
     "url": "https://tubul.org",
     "icon": "https://icons.duckduckgo.com/ip3/tubul.org.ico",
     "slug": "tubul",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 419,
-    "timeWeek": 309,
-    "timeMonth": 319,
-    "timeYear": 344,
-    "dailyMinutesDown": {}
+    "time": 412,
+    "timeDay": 2002,
+    "timeWeek": 705,
+    "timeMonth": 430,
+    "timeYear": 412,
+    "dailyMinutesDown": {
+      "2023-12-22": 0
+    }
   }
 ]
