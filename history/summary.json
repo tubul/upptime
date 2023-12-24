@@ -46,7 +46,7 @@
     "url": "https://tubul.org",
     "icon": "https://icons.duckduckgo.com/ip3/tubul.org.ico",
     "slug": "tubul",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,6 +57,8 @@
     "timeWeek": 672,
     "timeMonth": 423,
     "timeYear": 408,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-24": 0
+    }
   }
 ]
