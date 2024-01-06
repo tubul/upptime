@@ -19,6 +19,6 @@ status-website:
   introMessage: This site will provide information on current and future Protagonist services status
   navbar:
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/$REPO/issues
 i18n:
   footer: Protagonist
