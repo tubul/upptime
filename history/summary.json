@@ -30,7 +30,7 @@
     "url": "https://webmail.protagonist.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.protagonist.co.uk.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -42,6 +42,7 @@
     "timeMonth": 1282,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2024-11-02": 0,
       "2024-08-08": 106,
       "2024-07-24": 335,
       "2024-07-07": 56,
