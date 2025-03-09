@@ -1,7 +1,7 @@
 url: https://webmail.protagonist.co.uk
-status: up
-code: 200
-responseTime: 598
-lastUpdated: 2025-03-09T09:31:07.023Z
+status: down
+code: 502
+responseTime: 26393
+lastUpdated: 2025-03-09T17:43:49.259Z
 startTime: 2023-11-08T15:22:04.562Z
 generator: Upptime <https://github.com/upptime/upptime>
