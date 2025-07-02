@@ -11,10 +11,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.94%",
     "time": 489,
-    "timeDay": 666,
-    "timeWeek": 574,
-    "timeMonth": 530,
-    "timeYear": 478,
+    "timeDay": 525,
+    "timeWeek": 550,
+    "timeMonth": 525,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2025-06-21": 97,
       "2025-03-22": 72,
@@ -30,16 +30,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.protagonist.co.uk.ico",
     "slug": "webmail",
     "status": "up",
-    "uptime": "97.40%",
+    "uptime": "97.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "72.81%",
-    "uptimeYear": "95.85%",
-    "time": 1041,
-    "timeDay": 977,
-    "timeWeek": 746,
-    "timeMonth": 1123,
-    "timeYear": 1154,
+    "uptimeYear": "95.86%",
+    "time": 1042,
+    "timeDay": 805,
+    "timeWeek": 734,
+    "timeMonth": 1124,
+    "timeYear": 1115,
     "dailyMinutesDown": {
       "2025-06-21": 925,
       "2025-06-20": 1440,
@@ -71,8 +71,7 @@
       "2024-08-08": 106,
       "2024-07-24": 335,
       "2024-07-07": 56,
-      "2024-07-06": 62,
-      "2024-07-02": 36
+      "2024-07-06": 62
     }
   },
   {
@@ -87,10 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 424,
-    "timeDay": 338,
-    "timeWeek": 338,
-    "timeMonth": 409,
-    "timeYear": 415,
+    "timeDay": 148,
+    "timeWeek": 325,
+    "timeMonth": 406,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   }
 ]
