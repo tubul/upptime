@@ -4,7 +4,7 @@
     "url": "https://protagonist.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/protagonist.co.uk.ico",
     "slug": "protagonist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 508,
     "timeYear": 565,
     "dailyMinutesDown": {
+      "2025-10-25": 0,
       "2025-09-20": 20,
       "2025-09-15": 269,
       "2025-08-01": 47,
