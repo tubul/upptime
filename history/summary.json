@@ -83,19 +83,19 @@
     "url": "https://tubul.org",
     "icon": "https://icons.duckduckgo.com/ip3/tubul.org.ico",
     "slug": "tubul",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "90.98%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "90.30%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
     "time": 410,
-    "timeDay": 317,
-    "timeWeek": 331,
-    "timeMonth": 365,
+    "timeDay": 330,
+    "timeWeek": 338,
+    "timeMonth": 367,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2025-11-18": 130
+      "2025-11-18": 140
     }
   }
 ]
